@@ -151,7 +151,7 @@ summary.output = function(data, means, outfile) {
 #     cat(rank(data$score), file=outfile, append=T, sep="\t")
 # 
 }
-
+log.rank <- function(values) log(length(values)+1-rank(values))
 
 runAvgs <- function() {
     jaccard <- read.table("data/jaccard.csv", header=T)
@@ -173,11 +173,4 @@ runAvgs <- function() {
     #write.csv(data.tetra, file="tetra_localavg1000.csv", row.names=F)
     dev.off()
 }
-
-
-
-
-log.rank <- function(values) log(length(values)+1-rank(values))
-
-
-
+runAvgs()

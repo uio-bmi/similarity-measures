@@ -44,15 +44,15 @@ def generate_data2(score_table, track_info):
 def main(score_table_name, track_info_name):
     score_table = ScoreTable(score_table_name)
     track_info = TrackInfo(track_info_name)
-    return generate_data2(score_table, track_info)
+    return generate_data(score_table, track_info)
 
 if __name__ == "__main__":
     import sys
     rows = main(sys.argv[1], sys.argv[2])
     text_rows = ([str(e) for e in row] for row in rows)
     with open(sys.argv[3], "w") as f:
-        f.write("\t".join(
-            ["title", "name", "size", "title2",
-             "name2", "size2", "score"])+"\n")
-        # f.write("\t".join(["group", "size", "logsize", "score"]) + "\n")
+        # f.write("\t".join(
+        #    ["title", "name", "size", "title2",
+        #     "name2", "size2", "score"])+"\n")
+        f.write("\t".join(["group", "size", "logsize", "score"]) + "\n")
         f.writelines("\t".join(row)+"\n" for row in text_rows)

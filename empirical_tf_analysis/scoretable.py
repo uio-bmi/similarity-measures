@@ -1,7 +1,7 @@
 import pandas
-import statsmodels.api as sm
+# import statsmodels.api as sm
 # from sklearn.preprocessing import LabelEncoder
-from statsmodels.regression.linear_model import WLS
+# from statsmodels.regression.linear_model import WLS
 from sklearn import linear_model
 import matplotlib.pyplot as plt
 # from  matplotlib.axes import Axes
