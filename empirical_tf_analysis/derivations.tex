@@ -1,0 +1,36 @@
+\include{statsHeader}
+
+\newcommand{\forbes}[2]{\frac{\abs{#1 \cap #2}}{\abs{#1}\abs{#2}}}
+\newcommand{\jaccard}[2]{\frac{\abs{#1 \cap #2}}{\abs{#1 \cup #2}}}
+\begin{document}
+\problem{Hypergeometric}
+Let $R$ be created by sampling $n_1$ points from $X$ and $n_2$ points from $X$. For the Forbes measure we then get:
+\begin{align*}
+  \abs{R} &= n_1+n_2\\
+  FDR &= n_2/(n_1+n_2)\\
+  \abs{R \cap Q} &\sim HG(\abs{X}, \abs{X \cap Q}, n_1) + HG(\abs{\bar{X}}, \abs{\bar X \cap Q}, n_2)\\
+  E(\forbes{R}{Q}) &= \frac{n_1\abs{X \cap Q}/\abs{X}+n_2\abs{\bar X \cap Q}/\abs{\bar{X}}}{\abs{Q}(n_1+n_2)}\\
+          &= (1-FDR)\forbes{X}{Q} + FDR\forbes{\bar{X}}{Q}\\
+\end{align*}
+I.e:  the expected Forbes measure for $R$ and $Q$ is a weighted linear combination of the forbes similarity between $X$ and $Q$ and $\bar X$ and $Q$. But independent of the size of $R$.
+
+For Jaccard we get:
+\begin{align*}
+  \abs{R \cap Q} &\sim HG(\abs{X}, \abs{X \cap Q}, n_1) + HG(\abs{\bar{X}}, \abs{\bar X \cap Q}, n_2)\\
+  E(\abs{R \cap Q}) &=   HG(\abs{X}, \abs{X \cap Q}, n_1) + HG(\abs{\bar{X}}, \abs{\bar X \cap Q}, n_2)\\
+  \jaccard{R}{Q} &= \frac{\abs Q + \abs R - \abs{Q \cup R}}{\abs{Q \cup R}}\\
+  \jaccard{R}{Q} &\sim \frac{\abs{R \cap Q}}{\abs{Q}+\abs{R}-\abs{R \cap Q}}\\
+\end{align*}
+
+\problem{Notes}
+\begin{align*}
+  f(x) &= (x)/(N-x)\\
+  f'(x) &= ((N-x)+x)/(N-x)^2\\
+  f'(x) &= ((N)/(N-x)^2\\
+\end{align*}
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
