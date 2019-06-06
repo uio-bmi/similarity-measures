@@ -1,0 +1,839 @@
+﻿trackName;COLOR;StandardizedName;FNAME;GROUP;Target;Auto Use Train (Core)  94;TYPE;Cell_TissueType;PrimaryImmuneCells;Brain; Tcells;Bcells ;NK;Monocytes;Hematop;thymus;CD4 ;CD8 ;Th17;T-reg;Th1 ;Th2;Primary;ImmuneCells
+E003-DNase.hotspot.broad.bed;#924965;H1 Cells;E003-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H1 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E003-DNase.hotspot.fdr0.01.broad.bed;#924965;H1 Cells;E003-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H1 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E004-DNase.hotspot.broad.bed;#4178AE;H1 BMP4 Derived Mesendoderm Cultured Cells.;E004-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 BMP4 Derived Mesendoderm Cultured Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E004-DNase.hotspot.fdr0.01.broad.bed;#4178AE;H1 BMP4 Derived Mesendoderm Cultured Cells.;E004-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 BMP4 Derived Mesendoderm Cultured Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E005-DNase.hotspot.broad.bed;#4178AE;H1 BMP4 Derived Trophoblast Cultured Cells.;E005-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 BMP4 Derived Trophoblast Cultured Cells;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E005-DNase.hotspot.fdr0.01.broad.bed;#4178AE;H1 BMP4 Derived Trophoblast Cultured Cells.;E005-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 BMP4 Derived Trophoblast Cultured Cells;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E006-DNase.hotspot.broad.bed;#4178AE;H1 Derived Mesenchymal Stem Cells.;E006-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 Derived Mesenchymal Stem Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E006-DNase.hotspot.fdr0.01.broad.bed;#4178AE;H1 Derived Mesenchymal Stem Cells.;E006-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 Derived Mesenchymal Stem Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E007-DNase.hotspot.broad.bed;#4178AE;H1 Derived Neuronal Progenitor Cultured Cells.;E007-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 Derived Neuronal Progenitor Cultured Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E007-DNase.hotspot.fdr0.01.broad.bed;#4178AE;H1 Derived Neuronal Progenitor Cultured Cells.;E007-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 Derived Neuronal Progenitor Cultured Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E008-DNase.hotspot.broad.bed;#924965;H9 Cells.;E008-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E008-DNase.hotspot.fdr0.01.broad.bed;#924965;H9 Cells.;E008-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E017-DNase.hotspot.broad.bed;#E41A1C;IMR90 fetal lung fibroblasts Cell Line;E017-DNase.tagAlign.gz;IMR90;DNase;1;CellLine;IMR90 fetal lung fibroblasts Cell Line.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E017-DNase.hotspot.fdr0.01.broad.bed;#E41A1C;IMR90 fetal lung fibroblasts Cell Line;E017-DNase.tagAlign.gz;IMR90;DNase;1;CellLine;IMR90 fetal lung fibroblasts Cell Line.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E021-DNase.hotspot.broad.bed;#69608A;iPS DF 6.9 Cells.;E021-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 6.9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E021-DNase.hotspot.fdr0.01.broad.bed;#69608A;iPS DF 6.9 Cells.;E021-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 6.9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E022-DNase.hotspot.broad.bed;#69608A;iPS DF 19.11 Cells.;E022-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 19.11 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E022-DNase.hotspot.fdr0.01.broad.bed;#69608A;iPS DF 19.11 Cells.;E022-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 19.11 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E028-DNase.hotspot.broad.bed;#FF9D0C;Breast variant Human Mammary Epithelial Cells (vHMEC).;E028-DNase.tagAlign.gz;Epithelial;DNase;0;PrimaryCulture;Breast variant Human Mammary Epithelial Cells (vHMEC).;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E028-DNase.hotspot.fdr0.01.broad.bed;#FF9D0C;Breast variant Human Mammary Epithelial Cells (vHMEC).;E028-DNase.tagAlign.gz;Epithelial;DNase;0;PrimaryCulture;Breast variant Human Mammary Epithelial Cells (vHMEC).;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E029-DNase.hotspot.broad.bed;#678C69;Primary monocytes fromperipheralblood.;E029-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary monocytes fromperipheralblood.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+E029-DNase.hotspot.fdr0.01.broad.bed;#678C69;Primary monocytes fromperipheralblood.;E029-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary monocytes fromperipheralblood.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+E032-DNase.hotspot.broad.bed;#678C69;Primary B cells from peripheral blood.;E032-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary B cells from peripheral blood.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+E032-DNase.hotspot.fdr0.01.broad.bed;#678C69;Primary B cells from peripheral blood.;E032-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary B cells from peripheral blood.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+E033-DNase.hotspot.broad.bed;#55A354;Primary T cells from cord blood.;E033-DNase.tagAlign.gz;Blood & T-cell;DNase;0;PrimaryCell;Primary T cells from cord blood.;x;.;x;.;.;.;.;.;.;.;.;.;.;.;x;x
+E033-DNase.hotspot.fdr0.01.broad.bed;#55A354;Primary T cells from cord blood.;E033-DNase.tagAlign.gz;Blood & T-cell;DNase;0;PrimaryCell;Primary T cells from cord blood.;x;.;x;.;.;.;.;.;.;.;.;.;.;.;x;x
+E034-DNase.hotspot.broad.bed;#55A354;Primary T cells fromperipheralblood.;E034-DNase.tagAlign.gz;Blood & T-cell;DNase;0;PrimaryCell;Primary T cells fromperipheralblood.;x;.;x;.;.;.;.;.;.;.;.;.;.;.;x;x
+E034-DNase.hotspot.fdr0.01.broad.bed;#55A354;Primary T cells fromperipheralblood.;E034-DNase.tagAlign.gz;Blood & T-cell;DNase;0;PrimaryCell;Primary T cells fromperipheralblood.;x;.;x;.;.;.;.;.;.;.;.;.;.;.;x;x
+E046-DNase.hotspot.broad.bed;#678C69;Primary Natural Killer cells fromperipheralblood.;E046-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary Natural Killer cells fromperipheralblood.;x;.;.;.;x;.;.;.;.;.;.;.;.;.;x;x
+E046-DNase.hotspot.fdr0.01.broad.bed;#678C69;Primary Natural Killer cells fromperipheralblood.;E046-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary Natural Killer cells fromperipheralblood.;x;.;.;.;x;.;.;.;.;.;.;.;.;.;x;x
+E050-DNase.hotspot.broad.bed;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Female.;E050-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Female.;.;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E050-DNase.hotspot.fdr0.01.broad.bed;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Female.;E050-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Female.;.;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E051-DNase.hotspot.broad.bed;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Male.;E051-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Male.;.;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E051-DNase.hotspot.fdr0.01.broad.bed;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Male.;E051-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Male.;.;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E055-DNase.hotspot.broad.bed;#FF9D0C;Foreskin Fibroblast Primary Cells skin01.;E055-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Fibroblast Primary Cells skin01.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E055-DNase.hotspot.fdr0.01.broad.bed;#FF9D0C;Foreskin Fibroblast Primary Cells skin01.;E055-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Fibroblast Primary Cells skin01.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E056-DNase.hotspot.broad.bed;#FF9D0C;Foreskin Fibroblast Primary Cells skin02.;E056-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Fibroblast Primary Cells skin02.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E056-DNase.hotspot.fdr0.01.broad.bed;#FF9D0C;Foreskin Fibroblast Primary Cells skin02.;E056-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Fibroblast Primary Cells skin02.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E057-DNase.hotspot.broad.bed;#FF9D0C;Foreskin Keratinocyte Primary Cells skin02.;E057-DNase.tagAlign.gz;Epithelial;DNase;0;PrimaryCulture;Foreskin Keratinocyte Primary Cells skin02.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E057-DNase.hotspot.fdr0.01.broad.bed;#FF9D0C;Foreskin Keratinocyte Primary Cells skin02.;E057-DNase.tagAlign.gz;Epithelial;DNase;0;PrimaryCulture;Foreskin Keratinocyte Primary Cells skin02.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E059-DNase.hotspot.broad.bed;#FF9D0C;Foreskin Melanocyte Primary Cells skin01.;E059-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Melanocyte Primary Cells skin01.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E059-DNase.hotspot.fdr0.01.broad.bed;#FF9D0C;Foreskin Melanocyte Primary Cells skin01.;E059-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Melanocyte Primary Cells skin01.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E080-DNase.hotspot.broad.bed;#999999;Fetal Adrenal Gland.;E080-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Adrenal Gland.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E080-DNase.hotspot.fdr0.01.broad.bed;#999999;Fetal Adrenal Gland.;E080-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Adrenal Gland.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E081-DNase.hotspot.broad.bed;#C5912B;Fetal Brain Male.;E081-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Male.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E081-DNase.hotspot.fdr0.01.broad.bed;#C5912B;Fetal Brain Male.;E081-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Male.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E082-DNase.hotspot.broad.bed;#C5912B;Fetal Brain Female.;E082-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Female.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E082-DNase.hotspot.fdr0.01.broad.bed;#C5912B;Fetal Brain Female.;E082-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Female.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E083-DNase.hotspot.broad.bed;#D56F80;Fetal Heart.;E083-DNase.tagAlign.gz;Heart;DNase;0;PrimaryTissue;Fetal Heart.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E083-DNase.hotspot.fdr0.01.broad.bed;#D56F80;Fetal Heart.;E083-DNase.tagAlign.gz;Heart;DNase;0;PrimaryTissue;Fetal Heart.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E084-DNase.hotspot.broad.bed;#C58DAA;Fetal Intestine Large.;E084-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Large.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E084-DNase.hotspot.fdr0.01.broad.bed;#C58DAA;Fetal Intestine Large.;E084-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Large.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E085-DNase.hotspot.broad.bed;#C58DAA;Fetal Intestine Small.;E085-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Small.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E085-DNase.hotspot.fdr0.01.broad.bed;#C58DAA;Fetal Intestine Small.;E085-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Small.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E086-DNase.hotspot.broad.bed;#999999;Fetal Kidney.;E086-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Kidney.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E086-DNase.hotspot.fdr0.01.broad.bed;#999999;Fetal Kidney.;E086-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Kidney.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E088-DNase.hotspot.broad.bed;#999999;Fetal Lung.;E088-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Lung.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E088-DNase.hotspot.fdr0.01.broad.bed;#999999;Fetal Lung.;E088-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Lung.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E089-DNase.hotspot.broad.bed;#C2655D;Fetal Muscle Trunk.;E089-DNase.tagAlign.gz;Muscle;DNase;0;PrimaryTissue;Fetal Muscle Trunk.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E089-DNase.hotspot.fdr0.01.broad.bed;#C2655D;Fetal Muscle Trunk.;E089-DNase.tagAlign.gz;Muscle;DNase;0;PrimaryTissue;Fetal Muscle Trunk.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E090-DNase.hotspot.broad.bed;#C2655D;Fetal Muscle Leg.;E090-DNase.tagAlign.gz;Muscle;DNase;1;PrimaryTissue;Fetal Muscle Leg.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E090-DNase.hotspot.fdr0.01.broad.bed;#C2655D;Fetal Muscle Leg.;E090-DNase.tagAlign.gz;Muscle;DNase;1;PrimaryTissue;Fetal Muscle Leg.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E091-DNase.hotspot.broad.bed;#999999;Placenta.;E091-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Placenta.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E091-DNase.hotspot.fdr0.01.broad.bed;#999999;Placenta.;E091-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Placenta.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E092-DNase.hotspot.broad.bed;#C58DAA;Fetal Stomach.;E092-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Stomach.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E092-DNase.hotspot.fdr0.01.broad.bed;#C58DAA;Fetal Stomach.;E092-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Stomach.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E093-DNase.hotspot.broad.bed;#DAB92E;Fetal Thymus.;E093-DNase.tagAlign.gz;Thymus;DNase;0;PrimaryTissue;Fetal Thymus.;.;.;.;.;.;.;.;x;.;.;.;.;.;.;x;.
+E093-DNase.hotspot.fdr0.01.broad.bed;#DAB92E;Fetal Thymus.;E093-DNase.tagAlign.gz;Thymus;DNase;0;PrimaryTissue;Fetal Thymus.;.;.;.;.;.;.;.;x;.;.;.;.;.;.;x;.
+E094-DNase.hotspot.broad.bed;#C58DAA;Gastric.;E094-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Gastric.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E094-DNase.hotspot.fdr0.01.broad.bed;#C58DAA;Gastric.;E094-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Gastric.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E097-DNase.hotspot.broad.bed;#999999;Ovary.;E097-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Ovary.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E097-DNase.hotspot.fdr0.01.broad.bed;#999999;Ovary.;E097-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Ovary.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E098-DNase.hotspot.broad.bed;#999999;Pancreas;E098-DNase.tagAlign.gz;Other;DNase;0;PrimaryTissue;Pancreas.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E098-DNase.hotspot.fdr0.01.broad.bed;#999999;Pancreas;E098-DNase.tagAlign.gz;Other;DNase;0;PrimaryTissue;Pancreas.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E100-DNase.hotspot.broad.bed;#C2655D;Psoas Muscle.;E100-DNase.tagAlign.gz;Muscle;DNase;0;PrimaryTissue;Psoas Muscle.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E100-DNase.hotspot.fdr0.01.broad.bed;#C2655D;Psoas Muscle.;E100-DNase.tagAlign.gz;Muscle;DNase;0;PrimaryTissue;Psoas Muscle.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E109-DNase.hotspot.broad.bed;#C58DAA;Small Intestine.;E109-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Small Intestine.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E109-DNase.hotspot.fdr0.01.broad.bed;#C58DAA;Small Intestine.;E109-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Small Intestine.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E003-DNase.hotspot.all.peaks.bed;#924965;H1 Cells;E003-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H1 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E003-DNase.macs2.narrowPeak;#924965;H1 Cells;E003-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H1 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E004-DNase.hotspot.all.peaks.bed;#4178AE;H1 BMP4 Derived Mesendoderm Cultured Cells.;E004-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 BMP4 Derived Mesendoderm Cultured Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E005-DNase.hotspot.all.peaks.bed;#4178AE;H1 BMP4 Derived Trophoblast Cultured Cells.;E005-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 BMP4 Derived Trophoblast Cultured Cells;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E005-DNase.macs2.narrowPeak;#4178AE;H1 BMP4 Derived Trophoblast Cultured Cells.;E005-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 BMP4 Derived Trophoblast Cultured Cells;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E006-DNase.hotspot.all.peaks.bed;#4178AE;H1 Derived Mesenchymal Stem Cells.;E006-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 Derived Mesenchymal Stem Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E007-DNase.hotspot.all.peaks.bed;#4178AE;H1 Derived Neuronal Progenitor Cultured Cells.;E007-DNase.tagAlign.gz;ES-deriv;DNase;1;ESCDerived;H1 Derived Neuronal Progenitor Cultured Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E008-DNase.hotspot.all.peaks.bed;#924965;H9 Cells.;E008-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E008-DNase.macs2.narrowPeak;#924965;H9 Cells.;E008-DNase.tagAlign.gz;ESC;DNase;1;PrimaryCulture;H9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E017-DNase.hotspot.all.peaks.bed;#E41A1C;IMR90 fetal lung fibroblasts Cell Line;E017-DNase.tagAlign.gz;IMR90;DNase;1;CellLine;IMR90 fetal lung fibroblasts Cell Line.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E017-DNase.macs2.narrowPeak;#E41A1C;IMR90 fetal lung fibroblasts Cell Line;E017-DNase.tagAlign.gz;IMR90;DNase;1;CellLine;IMR90 fetal lung fibroblasts Cell Line.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E021-DNase.hotspot.all.peaks.bed;#69608A;iPS DF 6.9 Cells.;E021-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 6.9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E021-DNase.macs2.narrowPeak;#69608A;iPS DF 6.9 Cells.;E021-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 6.9 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E022-DNase.hotspot.all.peaks.bed;#69608A;iPS DF 19.11 Cells.;E022-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 19.11 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E022-DNase.macs2.narrowPeak;#69608A;iPS DF 19.11 Cells.;E022-DNase.tagAlign.gz;iPSC;DNase;1;PrimaryCulture;iPS DF 19.11 Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E028-DNase.hotspot.all.peaks.bed;#FF9D0C;Breast variant Human Mammary Epithelial Cells (vHMEC).;E028-DNase.tagAlign.gz;Epithelial;DNase;0;PrimaryCulture;Breast variant Human Mammary Epithelial Cells (vHMEC).;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E028-DNase.macs2.narrowPeak;#FF9D0C;Breast variant Human Mammary Epithelial Cells (vHMEC).;E028-DNase.tagAlign.gz;Epithelial;DNase;0;PrimaryCulture;Breast variant Human Mammary Epithelial Cells (vHMEC).;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E029-DNase.hotspot.all.peaks.bed;#678C69;Primary monocytes fromperipheralblood.;E029-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary monocytes fromperipheralblood.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+E029-DNase.macs2.narrowPeak;#678C69;Primary monocytes fromperipheralblood.;E029-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary monocytes fromperipheralblood.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+E032-DNase.hotspot.all.peaks.bed;#678C69;Primary B cells from peripheral blood.;E032-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary B cells from peripheral blood.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+E032-DNase.macs2.narrowPeak;#678C69;Primary B cells from peripheral blood.;E032-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary B cells from peripheral blood.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+E033-DNase.hotspot.all.peaks.bed;#55A354;Primary T cells from cord blood.;E033-DNase.tagAlign.gz;Blood & T-cell;DNase;0;PrimaryCell;Primary T cells from cord blood.;x;.;x;.;.;.;.;.;.;.;.;.;.;.;x;x
+E033-DNase.macs2.narrowPeak;#55A354;Primary T cells from cord blood.;E033-DNase.tagAlign.gz;Blood & T-cell;DNase;0;PrimaryCell;Primary T cells from cord blood.;x;.;x;.;.;.;.;.;.;.;.;.;.;.;x;x
+E034-DNase.hotspot.all.peaks.bed;#55A354;Primary T cells fromperipheralblood.;E034-DNase.tagAlign.gz;Blood & T-cell;DNase;0;PrimaryCell;Primary T cells fromperipheralblood.;x;.;x;.;.;.;.;.;.;.;.;.;.;.;x;x
+E046-DNase.hotspot.all.peaks.bed;#678C69;Primary Natural Killer cells fromperipheralblood.;E046-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary Natural Killer cells fromperipheralblood.;x;.;.;.;x;.;.;.;.;.;.;.;.;.;x;x
+E050-DNase.hotspot.all.peaks.bed;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Female.;E050-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Female.;x;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E050-DNase.macs2.narrowPeak;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Female.;E050-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Female.;x;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E051-DNase.hotspot.all.peaks.bed;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Male.;E051-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Male.;x;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E051-DNase.macs2.narrowPeak;#678C69;Primary hematopoietic stem cells G-CSF-mobilized Male.;E051-DNase.tagAlign.gz;HSC & B-cell;DNase;1;PrimaryCell;Primary hematopoietic stem cells G-CSF-mobilized Male.;x;.;.;.;.;.;x;.;.;.;.;.;.;.;x;x
+E055-DNase.hotspot.all.peaks.bed;#FF9D0C;Foreskin Fibroblast Primary Cells skin01.;E055-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Fibroblast Primary Cells skin01.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E056-DNase.hotspot.all.peaks.bed;#FF9D0C;Foreskin Fibroblast Primary Cells skin02.;E056-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Fibroblast Primary Cells skin02.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E056-DNase.macs2.narrowPeak;#FF9D0C;Foreskin Fibroblast Primary Cells skin02.;E056-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Fibroblast Primary Cells skin02.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E057-DNase.hotspot.all.peaks.bed;#FF9D0C;Foreskin Keratinocyte Primary Cells skin02.;E057-DNase.tagAlign.gz;Epithelial;DNase;0;PrimaryCulture;Foreskin Keratinocyte Primary Cells skin02.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E059-DNase.hotspot.all.peaks.bed;#FF9D0C;Foreskin Melanocyte Primary Cells skin01.;E059-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Melanocyte Primary Cells skin01.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E059-DNase.macs2.narrowPeak;#FF9D0C;Foreskin Melanocyte Primary Cells skin01.;E059-DNase.tagAlign.gz;Epithelial;DNase;1;PrimaryCulture;Foreskin Melanocyte Primary Cells skin01.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E080-DNase.hotspot.all.peaks.bed;#999999;Fetal Adrenal Gland.;E080-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Adrenal Gland.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E080-DNase.macs2.narrowPeak;#999999;Fetal Adrenal Gland.;E080-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Adrenal Gland.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E081-DNase.hotspot.all.peaks.bed;#C5912B;Fetal Brain Male.;E081-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Male.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E081-DNase.macs2.narrowPeak;#C5912B;Fetal Brain Male.;E081-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Male.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E082-DNase.hotspot.all.peaks.bed;#C5912B;Fetal Brain Female.;E082-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Female.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E082-DNase.macs2.narrowPeak;#C5912B;Fetal Brain Female.;E082-DNase.tagAlign.gz;Brain;DNase;0;PrimaryTissue;Fetal Brain Female.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E083-DNase.hotspot.all.peaks.bed;#D56F80;Fetal Heart.;E083-DNase.tagAlign.gz;Heart;DNase;0;PrimaryTissue;Fetal Heart.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E083-DNase.macs2.narrowPeak;#D56F80;Fetal Heart.;E083-DNase.tagAlign.gz;Heart;DNase;0;PrimaryTissue;Fetal Heart.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E084-DNase.hotspot.all.peaks.bed;#C58DAA;Fetal Intestine Large.;E084-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Large.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E084-DNase.macs2.narrowPeak;#C58DAA;Fetal Intestine Large.;E084-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Large.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E085-DNase.hotspot.all.peaks.bed;#C58DAA;Fetal Intestine Small.;E085-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Small.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E085-DNase.macs2.narrowPeak;#C58DAA;Fetal Intestine Small.;E085-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Intestine Small.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E086-DNase.hotspot.all.peaks.bed;#999999;Fetal Kidney.;E086-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Kidney.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E086-DNase.macs2.narrowPeak;#999999;Fetal Kidney.;E086-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Kidney.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E088-DNase.hotspot.all.peaks.bed;#999999;Fetal Lung.;E088-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Lung.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E088-DNase.macs2.narrowPeak;#999999;Fetal Lung.;E088-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Fetal Lung.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E089-DNase.hotspot.all.peaks.bed;#C2655D;Fetal Muscle Trunk.;E089-DNase.tagAlign.gz;Muscle;DNase;0;PrimaryTissue;Fetal Muscle Trunk.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E090-DNase.hotspot.all.peaks.bed;#C2655D;Fetal Muscle Leg.;E090-DNase.tagAlign.gz;Muscle;DNase;1;PrimaryTissue;Fetal Muscle Leg.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E090-DNase.macs2.narrowPeak;#C2655D;Fetal Muscle Leg.;E090-DNase.tagAlign.gz;Muscle;DNase;1;PrimaryTissue;Fetal Muscle Leg.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E091-DNase.hotspot.all.peaks.bed;#999999;Placenta.;E091-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Placenta.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E091-DNase.macs2.narrowPeak;#999999;Placenta.;E091-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Placenta.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E092-DNase.hotspot.all.peaks.bed;#C58DAA;Fetal Stomach.;E092-DNase.tagAlign.gz;Digestive;DNase;1;PrimaryTissue;Fetal Stomach.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E093-DNase.hotspot.all.peaks.bed;#DAB92E;Fetal Thymus.;E093-DNase.tagAlign.gz;Thymus;DNase;0;PrimaryTissue;Fetal Thymus.;.;.;.;.;.;.;.;x;.;.;.;.;.;.;x;.
+E093-DNase.macs2.narrowPeak;#DAB92E;Fetal Thymus.;E093-DNase.tagAlign.gz;Thymus;DNase;0;PrimaryTissue;Fetal Thymus.;.;.;.;.;.;.;.;x;.;.;.;.;.;.;x;.
+E094-DNase.hotspot.all.peaks.bed;#C58DAA;Gastric.;E094-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Gastric.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E094-DNase.macs2.narrowPeak;#C58DAA;Gastric.;E094-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Gastric.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E097-DNase.hotspot.all.peaks.bed;#999999;Ovary.;E097-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Ovary.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E097-DNase.macs2.narrowPeak;#999999;Ovary.;E097-DNase.tagAlign.gz;Other;DNase;1;PrimaryTissue;Ovary.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E098-DNase.hotspot.all.peaks.bed;#999999;Pancreas;E098-DNase.tagAlign.gz;Other;DNase;0;PrimaryTissue;Pancreas.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E098-DNase.macs2.narrowPeak;#999999;Pancreas;E098-DNase.tagAlign.gz;Other;DNase;0;PrimaryTissue;Pancreas.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E100-DNase.hotspot.all.peaks.bed;#C2655D;Psoas Muscle.;E100-DNase.tagAlign.gz;Muscle;DNase;0;PrimaryTissue;Psoas Muscle.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E100-DNase.macs2.narrowPeak;#C2655D;Psoas Muscle.;E100-DNase.tagAlign.gz;Muscle;DNase;0;PrimaryTissue;Psoas Muscle.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E109-DNase.hotspot.all.peaks.bed;#C58DAA;Small Intestine.;E109-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Small Intestine.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E109-DNase.macs2.narrowPeak;#C58DAA;Small Intestine.;E109-DNase.tagAlign.gz;Digestive;DNase;0;PrimaryTissue;Small Intestine.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E114-DNase.macs2.narrowPeak;#000000;A549 EtOH 0.02pct Lung Carcinoma Cell Line.;E114-DNase.tagAlign.gz;ENCODE2012;DNase;0;CellLine;A549 EtOH 0.02pct Lung Carcinoma Cell Line.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E117-DNase.macs2.narrowPeak;#000000;HeLa-S3 Cervical Carcinoma Cell Line.;E117-DNase.tagAlign.gz;ENCODE2012;DNase;1;CellLine;HeLa-S3 Cervical Carcinoma Cell Line.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E118-DNase.macs2.narrowPeak;#000000;HepG2 Hepatocellular Carcinoma Cell Line.;E118-DNase.tagAlign.gz;ENCODE2012;DNase;1;CellLine;HepG2 Hepatocellular Carcinoma Cell Line.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E120-DNase.macs2.narrowPeak;#000000;HSMM Skeletal Muscle Myoblasts Cells.;E120-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCulture;HSMM Skeletal Muscle Myoblasts Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E121-DNase.macs2.narrowPeak;#000000;HSMM cell derived Skeletal Muscle Myotubes Cells.;E121-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCulture;HSMM cell derived Skeletal Muscle Myotubes Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E123-DNase.macs2.narrowPeak;#000000;K562 Leukemia Cells.;E123-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCulture;K562 Leukemia Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+E124-DNase.macs2.narrowPeak;#000000;Monocytes-CD14+ RO01746 Primary Cells.;E124-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCell;Monocytes-CD14+ RO01746 Primary Cells.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+E125-DNase.macs2.narrowPeak;#000000;NH-A Astrocytes Primary Cells.;E125-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCulture;NH-A Astrocytes Primary Cells.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E126-DNase.macs2.narrowPeak;#000000;NHDF-Ad Adult Dermal Fibroblast Primary Cells.;E126-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCulture;NHDF-Ad Adult Dermal Fibroblast Primary Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E127-DNase.macs2.narrowPeak;#000000;NHEK-Epidermal Keratinocyte Primary Cells.;E127-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCulture;NHEK-Epidermal Keratinocyte Primary Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+E128-DNase.macs2.narrowPeak;#000000;NHLF Lung Fibroblast Primary Cells.;E128-DNase.tagAlign.gz;ENCODE2012;DNase;1;PrimaryCulture;NHLF Lung Fibroblast Primary Cells.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+wgEncodeAwgDnaseDuke8988tUniPk.narrowPeak;.;.;.;.;.;.;.;8988T.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeAosmcUniPk.narrowPeak;.;.;.;.;.;.;.;AoSMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeChorionUniPk.narrowPeak;.;.;.;.;.;.;.;Chorion.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeCllUniPk.narrowPeak;.;.;.;.;.;.;.;CLL.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeFibroblUniPk.narrowPeak;.;.;.;.;.;.;.;Fibrobl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeFibropUniPk.narrowPeak;.;.;.;.;.;.;.;FibroP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeGlioblaUniPk.narrowPeak;.;.;.;.;.;.;.;Gliobla.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeGm12891UniPk.narrowPeak;.;.;.;.;.;.;.;GM12891.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeGm12892UniPk.narrowPeak;.;.;.;.;.;.;.;GM12892.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeGm18507UniPk.narrowPeak;.;.;.;.;.;.;.;GM18507.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeGm19238UniPk.narrowPeak;.;.;.;.;.;.;.;GM19238.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeGm19239UniPk.narrowPeak;.;.;.;.;.;.;.;GM19239.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeGm19240UniPk.narrowPeak;.;.;.;.;.;.;.;GM19240.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeH9esUniPk.narrowPeak;.;.;.;.;.;.;.;H9ES.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeHelas3ifna4hUniPk.narrowPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeHepatocytesUniPk.narrowPeak;.;.;.;.;.;.;.;Hepatocytes.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeHpde6e6e7UniPk.narrowPeak;.;.;.;.;.;.;.;HPDE6-E6E7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeHsmmembUniPk.narrowPeak;.;.;.;.;.;.;.;HSMM_emb.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeHtr8svnUniPk.narrowPeak;.;.;.;.;.;.;.;HTR8svn.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeHuh7UniPk.narrowPeak;.;.;.;.;.;.;.;Huh-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeIpsUniPk.narrowPeak;.;.;.;.;.;.;.;iPS.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeIshikawaestradiolUniPk.narrowPeak;.;.;.;.;.;.;.;Ishikawa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeIshikawatamoxifenUniPk.narrowPeak;.;.;.;.;.;.;.;Ishikawa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeLncapandrogenUniPk.narrowPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeMcf7hypoxiaUniPk.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeMedulloUniPk.narrowPeak;.;.;.;.;.;.;.;Medullo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeMelanoUniPk.narrowPeak;.;.;.;.;.;.;.;Melano.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeMyometrUniPk.narrowPeak;.;.;.;.;.;.;.;Myometr.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeOsteoblUniPk.narrowPeak;.;.;.;.;.;.;.;Osteobl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukePanisletdUniPk.narrowPeak;.;.;.;.;.;.;.;PanIsletD.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukePanisletsUniPk.narrowPeak;.;.;.;.;.;.;.;PanIslets.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukePhteUniPk.narrowPeak;.;.;.;.;.;.;.;pHTE.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeProgfibUniPk.narrowPeak;.;.;.;.;.;.;.;ProgFib.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeRwpe1UniPk.narrowPeak;.;.;.;.;.;.;.;RWPE1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeStellateUniPk.narrowPeak;.;.;.;.;.;.;.;Stellate.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeT47dUniPk.narrowPeak;.;.;.;.;.;.;.;T-47D.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeTh0UniPk.narrowPeak;.;.;.;.;.;.;.;Adult_CD4_Th0.;x;.;x;.;.;.;.;.;x;.;.;.;.;.;.;x
+wgEncodeAwgDnaseDukeUrotheliaUniPk.narrowPeak;.;.;.;.;.;.;.;Urothelia.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseDukeUrotheliaut189UniPk.narrowPeak;.;.;.;.;.;.;.;Urothelia.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwAg04449UniPk.narrowPeak;.;.;.;.;.;.;.;AG04449.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwAg04450UniPk.narrowPeak;.;.;.;.;.;.;.;AG04450.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwAg09309UniPk.narrowPeak;.;.;.;.;.;.;.;AG09309.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwAg09319UniPk.narrowPeak;.;.;.;.;.;.;.;AG09319.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwAg10803UniPk.narrowPeak;.;.;.;.;.;.;.;AG10803.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwAoafUniPk.narrowPeak;.;.;.;.;.;.;.;AoAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwBe2cUniPk.narrowPeak;.;.;.;.;.;.;.;BE2_C.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwBjUniPk.narrowPeak;.;.;.;.;.;.;.;BJ.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwCaco2UniPk.narrowPeak;.;.;.;.;.;.;.;Caco-2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwCd20UniPk.narrowPeak;.;.;.;.;.;.;.;CD20+.;.;.;.;x;.;.;.;.;.;.;.;.;.;.;.;x
+wgEncodeAwgDnaseUwCd34mobilizedUniPk.narrowPeak;.;.;.;.;.;.;.;CD34+_Mobilized.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;x
+wgEncodeAwgDnaseUwCmkUniPk.narrowPeak;.;.;.;.;.;.;.;CMK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwGm06990UniPk.narrowPeak;.;.;.;.;.;.;.;GM06990.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwGm12864UniPk.narrowPeak;.;.;.;.;.;.;.;GM12864.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwGm12865UniPk.narrowPeak;.;.;.;.;.;.;.;GM12865.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwH7hescUniPk.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHacUniPk.narrowPeak;.;.;.;.;.;.;.;HAc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHaepicUniPk.narrowPeak;.;.;.;.;.;.;.;HAEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHahUniPk.narrowPeak;.;.;.;.;.;.;.;HA-h.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHaspUniPk.narrowPeak;.;.;.;.;.;.;.;HA-sp.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHbmecUniPk.narrowPeak;.;.;.;.;.;.;.;HBMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHcfUniPk.narrowPeak;.;.;.;.;.;.;.;HCF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHcfaaUniPk.narrowPeak;.;.;.;.;.;.;.;HCFaa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHcmUniPk.narrowPeak;.;.;.;.;.;.;.;HCM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHconfUniPk.narrowPeak;.;.;.;.;.;.;.;HConF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHcpepicUniPk.narrowPeak;.;.;.;.;.;.;.;HCPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHct116UniPk.narrowPeak;.;.;.;.;.;.;.;HCT-116.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHeepicUniPk.narrowPeak;.;.;.;.;.;.;.;HEEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHffUniPk.narrowPeak;.;.;.;.;.;.;.;HFF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHffmycUniPk.narrowPeak;.;.;.;.;.;.;.;HFF-Myc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHgfUniPk.narrowPeak;.;.;.;.;.;.;.;HGF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHipepicUniPk.narrowPeak;.;.;.;.;.;.;.;HIPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHl60UniPk.narrowPeak;.;.;.;.;.;.;.;HL-60.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmfUniPk.narrowPeak;.;.;.;.;.;.;.;HMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmvecdadUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-dAd.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmvecdbladUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-dBl-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmvecdblneoUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-dBl-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmvecdlyadUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-dLy-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmvecdlyneoUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-dLy-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmvecdneoUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-dNeo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmveclblUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-LBl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHmvecllyUniPk.narrowPeak;.;.;.;.;.;.;.;HMVEC-LLy.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHnpcepicUniPk.narrowPeak;.;.;.;.;.;.;.;HNPCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHpaecUniPk.narrowPeak;.;.;.;.;.;.;.;HPAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHpafUniPk.narrowPeak;.;.;.;.;.;.;.;HPAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHpdlfUniPk.narrowPeak;.;.;.;.;.;.;.;HPdLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHpfUniPk.narrowPeak;.;.;.;.;.;.;.;HPF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHrcepicUniPk.narrowPeak;.;.;.;.;.;.;.;HRCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHreUniPk.narrowPeak;.;.;.;.;.;.;.;HRE.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHrgecUniPk.narrowPeak;.;.;.;.;.;.;.;HRGEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHrpepicUniPk.narrowPeak;.;.;.;.;.;.;.;HRPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwHvmfUniPk.narrowPeak;.;.;.;.;.;.;.;HVMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwJurkatUniPk.narrowPeak;.;.;.;.;.;.;.;Jurkat.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwMonocytescd14ro01746UniPk.narrowPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;.;.;.;.;.;x;.;.;.;.;.;.;.;.;.;x
+wgEncodeAwgDnaseUwNb4UniPk.narrowPeak;.;.;.;.;.;.;.;NB4.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwNhaUniPk.narrowPeak;.;.;.;.;.;.;.;NH-A.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwNhdfadUniPk.narrowPeak;.;.;.;.;.;.;.;NHDF-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwNhdfneoUniPk.narrowPeak;.;.;.;.;.;.;.;NHDF-neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwNhlfUniPk.narrowPeak;.;.;.;.;.;.;.;NHLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwNt2d1UniPk.narrowPeak;.;.;.;.;.;.;.;NT2-D1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwPanc1UniPk.narrowPeak;.;.;.;.;.;.;.;PANC-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwPrecUniPk.narrowPeak;.;.;.;.;.;.;.;PrEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwRptecUniPk.narrowPeak;.;.;.;.;.;.;.;RPTEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwSaecUniPk.narrowPeak;.;.;.;.;.;.;.;SAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwSkmcUniPk.narrowPeak;.;.;.;.;.;.;.;SKMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwSknmcUniPk.narrowPeak;.;.;.;.;.;.;.;SK-N-MC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwSknshraUniPk.narrowPeak;.;.;.;.;.;.;.;SK-N-SH_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwTh2UniPk.narrowPeak;.;.;.;.;.;.;.;Th2.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeAwgDnaseUwWerirb1UniPk.narrowPeak;.;.;.;.;.;.;.;WERI-Rb-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwWi38UniPk.narrowPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwWi38tamoxifentamoxifenUniPk.narrowPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeA549UniPk.narrowPeak;.;.;.;.;.;.;.;A549.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeGm12878UniPk.narrowPeak;.;.;.;.;.;.;.;GM12878.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeH1hescUniPk.narrowPeak;.;.;.;.;.;.;.;H1-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeHelas3UniPk.narrowPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeHepg2UniPk.narrowPeak;.;.;.;.;.;.;.;HepG2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeHmecUniPk.narrowPeak;.;.;.;.;.;.;.;HMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeHsmmUniPk.narrowPeak;.;.;.;.;.;.;.;HSMM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeHsmmtubeUniPk.narrowPeak;.;.;.;.;.;.;.;HSMMtube.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeHuvecUniPk.narrowPeak;.;.;.;.;.;.;.;HUVEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeK562UniPk.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeLncapUniPk.narrowPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeMcf7UniPk.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeNhekUniPk.narrowPeak;.;.;.;.;.;.;.;NHEK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeAwgDnaseUwdukeTh1UniPk.narrowPeak;.;.;.;.;.;.;.;Th1.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeOpenChromDnase8988tPk.narrowPeak;.;.;.;.;.;.;.;8988T.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseA549Pk.narrowPeak;.;.;.;.;.;.;.;A549.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseAdultcd4th0Pk.narrowPeak;.;.;.;.;.;.;.;Adult_CD4_Th0.;x;.;x;.;.;.;.;.;x;.;.;.;.;.;x;x
+wgEncodeOpenChromDnaseAdultcd4th1Pk.narrowPeak;.;.;.;.;.;.;.;Adult_CD4_Th1.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeOpenChromDnaseAosmcSerumfreePk.narrowPeak;.;.;.;.;.;.;.;AoSMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseCd20ro01794Pk.narrowPeak;.;.;.;.;.;.;.;CD20+_RO01794.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeOpenChromDnaseCerebellumocPk.narrowPeak;.;.;.;.;.;.;.;Cerebellum_OC.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+wgEncodeOpenChromDnaseCerebrumfrontalocPk.narrowPeak;.;.;.;.;.;.;.;Cerebrum_frontal_OC.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+wgEncodeOpenChromDnaseChorionPk.narrowPeak;.;.;.;.;.;.;.;Chorion.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseCllPk.narrowPeak;.;.;.;.;.;.;.;CLL.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseColo829Pk.narrowPeak;.;.;.;.;.;.;.;Colo829.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseEcc1Dm002p1hPk.narrowPeak;.;.;.;.;.;.;.;ECC-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseEcc1Est10nm30mPk.narrowPeak;.;.;.;.;.;.;.;ECC-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibroblPk.narrowPeak;.;.;.;.;.;.;.;Fibrobl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibroblgm03348LenticonPk.narrowPeak;.;.;.;.;.;.;.;Fibrobl_GM03348.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibroblgm03348LentimyodPk.narrowPeak;.;.;.;.;.;.;.;Fibrobl_GM03348.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibroblgm03348Pk.narrowPeak;.;.;.;.;.;.;.;Fibrobl_GM03348.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibropPk.narrowPeak;.;.;.;.;.;.;.;FibroP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibropag08395Pk.narrowPeak;.;.;.;.;.;.;.;FibroP_AG08395.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibropag08396Pk.narrowPeak;.;.;.;.;.;.;.;FibroP_AG08396.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFibropag20443Pk.narrowPeak;.;.;.;.;.;.;.;FibroP_AG20443.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseFrontalcortexocPk.narrowPeak;.;.;.;.;.;.;.;Frontal_cortex_OC.;.;x;.;.;.;.;.;.;.;.;.;.;.;.;x;.
+wgEncodeOpenChromDnaseGcbcellPk.narrowPeak;.;.;.;.;.;.;.;GC_B_cell.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGlioblaPk.narrowPeak;.;.;.;.;.;.;.;Gliobla.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm10248Pk.narrowPeak;.;.;.;.;.;.;.;GM10248.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm10266Pk.narrowPeak;.;.;.;.;.;.;.;GM10266.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm12878Pk.narrowPeak;.;.;.;.;.;.;.;GM12878.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm12891Pk.narrowPeak;.;.;.;.;.;.;.;GM12891.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm12892Pk.narrowPeak;.;.;.;.;.;.;.;GM12892.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm13976Pk.narrowPeak;.;.;.;.;.;.;.;GM13976.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm13977Pk.narrowPeak;.;.;.;.;.;.;.;GM13977.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm18507Pk.narrowPeak;.;.;.;.;.;.;.;GM18507.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm19238Pk.narrowPeak;.;.;.;.;.;.;.;GM19238.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm19239Pk.narrowPeak;.;.;.;.;.;.;.;GM19239.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm19240Pk.narrowPeak;.;.;.;.;.;.;.;GM19240.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseGm20000Pk.narrowPeak;.;.;.;.;.;.;.;GM20000.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseH1hescPk.narrowPeak;.;.;.;.;.;.;.;H1-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseH7esPk.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseH9esPk.narrowPeak;.;.;.;.;.;.;.;H9ES.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHeartocPk.narrowPeak;.;.;.;.;.;.;.;Heart_OC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHek293tPk.narrowPeak;.;.;.;.;.;.;.;HEK293T.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHelas3Ifna4hPk.narrowPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHelas3Pk.narrowPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHepatocytesPk.narrowPeak;.;.;.;.;.;.;.;Hepatocytes.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHepg2Pk.narrowPeak;.;.;.;.;.;.;.;HepG2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHmecPk.narrowPeak;.;.;.;.;.;.;.;HMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHpde6e6e7Pk.narrowPeak;.;.;.;.;.;.;.;HPDE6-E6E7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHsmmPk.narrowPeak;.;.;.;.;.;.;.;HSMM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHsmmembPk.narrowPeak;.;.;.;.;.;.;.;HSMM_emb.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHsmmfshdPk.narrowPeak;.;.;.;.;.;.;.;HSMM_FSHD.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHsmmtPk.narrowPeak;.;.;.;.;.;.;.;HSMMtube.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHtr8Pk.narrowPeak;.;.;.;.;.;.;.;HTR8svn.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHuh75Pk.narrowPeak;.;.;.;.;.;.;.;Huh-7.5.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHuh7Pk.narrowPeak;.;.;.;.;.;.;.;Huh-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseHuvecPk.narrowPeak;.;.;.;.;.;.;.;HUVEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseImr90Pk.narrowPeak;.;.;.;.;.;.;.;IMR90.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseIpsPk.narrowPeak;.;.;.;.;.;.;.;iPS.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseIpscwru1Pk.narrowPeak;.;.;.;.;.;.;.;iPS_CWRU1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseIpsnihi11Pk.narrowPeak;.;.;.;.;.;.;.;iPS_NIHi11.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseIpsnihi7Pk.narrowPeak;.;.;.;.;.;.;.;iPS_NIHi7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseIshikawaEst10nm30mPk.narrowPeak;.;.;.;.;.;.;.;Ishikawa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseIshikawaTam10030Pk.narrowPeak;.;.;.;.;.;.;.;Ishikawa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseK562G1phasePk.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseK562G2mphasePk.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseK562NabutPk.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseK562Pk.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseK562PkV2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseK562Saha1u72hrPk.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseK562SahactrlPk.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseLncapAndroPk.narrowPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseLncapPk.narrowPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMcf7CtcfshrnaPk.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMcf7HypoxlacPk.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMcf7HypoxlacconPk.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMcf7Pk.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMcf7RandshrnaPk.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMedulloPk.narrowPeak;.;.;.;.;.;.;.;Medullo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMedullod341Pk.narrowPeak;.;.;.;.;.;.;.;Medullo_D341.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMel2183Pk.narrowPeak;.;.;.;.;.;.;.;Mel_2183.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMelanoPk.narrowPeak;.;.;.;.;.;.;.;Melano.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseMonocd14Pk.narrowPeak;.;.;.;.;.;.;.;Monocytes-CD14+.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeOpenChromDnaseMyometrPk.narrowPeak;.;.;.;.;.;.;.;Myometr.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseNaivebcellPk.narrowPeak;.;.;.;.;.;.;.;Naive_B_cell.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeOpenChromDnaseNhekPk.narrowPeak;.;.;.;.;.;.;.;NHEK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseOlfneurospherePk.narrowPeak;.;.;.;.;.;.;.;Olf_neurosphere.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseOsteoblPk.narrowPeak;.;.;.;.;.;.;.;Osteobl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnasePanisdPk.narrowPeak;.;.;.;.;.;.;.;PanIsletD.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnasePanisletsPk.narrowPeak;.;.;.;.;.;.;.;PanIslets.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnasePhtePk.narrowPeak;.;.;.;.;.;.;.;pHTE.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseProgfibPk.narrowPeak;.;.;.;.;.;.;.;ProgFib.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnasePsoasmuscleocPk.narrowPeak;.;.;.;.;.;.;.;Psoas_muscle_OC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseRwpe1Pk.narrowPeak;.;.;.;.;.;.;.;RWPE1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseSknshPk.narrowPeak;.;.;.;.;.;.;.;SK-N-SH.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseStellatePk.narrowPeak;.;.;.;.;.;.;.;Stellate.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseT47dEst10nm30mPk.narrowPeak;.;.;.;.;.;.;.;T-47D.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseT47dPk.narrowPeak;.;.;.;.;.;.;.;T-47D.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseUrothelPkV2.narrowPeak;.;.;.;.;.;.;.;Urothelia.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseUrothelUt189PkV2.narrowPeak;.;.;.;.;.;.;.;Urothelia.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseUrotsaPk.narrowPeak;.;.;.;.;.;.;.;Urothelia.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeOpenChromDnaseUrotsaUt189Pk.narrowPeak;.;.;.;.;.;.;.;Urothelia.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseA549HotspotsRep1.broadPeak;.;.;.;.;.;.;.;A549.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseA549HotspotsRep2.broadPeak;.;.;.;.;.;.;.;A549.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseA549PkRep1.narrowPeak;.;.;.;.;.;.;.;A549.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseA549PkRep2.narrowPeak;.;.;.;.;.;.;.;A549.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04449HotspotsRep1.broadPeak;.;.;.;.;.;.;.;AG04449.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04449HotspotsRep2.broadPeak;.;.;.;.;.;.;.;AG04449.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04449PkRep1.narrowPeak;.;.;.;.;.;.;.;AG04449.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04449PkRep2.narrowPeak;.;.;.;.;.;.;.;AG04449.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04450HotspotsRep1.broadPeak;.;.;.;.;.;.;.;AG04450.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04450HotspotsRep2.broadPeak;.;.;.;.;.;.;.;AG04450.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04450PkRep1.narrowPeak;.;.;.;.;.;.;.;AG04450.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg04450PkRep2.narrowPeak;.;.;.;.;.;.;.;AG04450.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09309HotspotsRep1.broadPeak;.;.;.;.;.;.;.;AG09309.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09309HotspotsRep2.broadPeak;.;.;.;.;.;.;.;AG09309.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09309PkRep1.narrowPeak;.;.;.;.;.;.;.;AG09309.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09309PkRep2.narrowPeak;.;.;.;.;.;.;.;AG09309.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09319HotspotsRep1.broadPeak;.;.;.;.;.;.;.;AG09319.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09319HotspotsRep2.broadPeak;.;.;.;.;.;.;.;AG09319.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09319PkRep1V2.narrowPeak;.;.;.;.;.;.;.;AG09319.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg09319PkRep2.narrowPeak;.;.;.;.;.;.;.;AG09319.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg10803HotspotsRep1.broadPeak;.;.;.;.;.;.;.;AG10803.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg10803HotspotsRep2.broadPeak;.;.;.;.;.;.;.;AG10803.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg10803PkRep1.narrowPeak;.;.;.;.;.;.;.;AG10803.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAg10803PkRep2.narrowPeak;.;.;.;.;.;.;.;AG10803.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAoafHotspotsRep1.broadPeak;.;.;.;.;.;.;.;AoAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAoafHotspotsRep2.broadPeak;.;.;.;.;.;.;.;AoAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAoafPkRep1.narrowPeak;.;.;.;.;.;.;.;AoAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseAoafPkRep2.narrowPeak;.;.;.;.;.;.;.;AoAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBe2cHotspotsRep1.broadPeak;.;.;.;.;.;.;.;BE2_C.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBe2cHotspotsRep2.broadPeak;.;.;.;.;.;.;.;BE2_C.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBe2cPkRep1.narrowPeak;.;.;.;.;.;.;.;BE2_C.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBe2cPkRep2.narrowPeak;.;.;.;.;.;.;.;BE2_C.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBjHotspotsRep1.broadPeak;.;.;.;.;.;.;.;BJ.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBjHotspotsRep2.broadPeak;.;.;.;.;.;.;.;BJ.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBjPkRep1.narrowPeak;.;.;.;.;.;.;.;BJ.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseBjPkRep2.narrowPeak;.;.;.;.;.;.;.;BJ.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseCaco2HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Caco-2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseCaco2HotspotsRep2.broadPeak;.;.;.;.;.;.;.;Caco-2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseCaco2PkRep1.narrowPeak;.;.;.;.;.;.;.;Caco-2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseCaco2PkRep2.narrowPeak;.;.;.;.;.;.;.;Caco-2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseCd20ro01778HotspotsRep1.broadPeak;.;.;.;.;.;.;.;CD20+_RO01778.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd20ro01778HotspotsRep2.broadPeak;.;.;.;.;.;.;.;CD20+_RO01778.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd20ro01778PkRep1.narrowPeak;.;.;.;.;.;.;.;CD20+_RO01778.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd20ro01778PkRep2.narrowPeak;.;.;.;.;.;.;.;CD20+_RO01778.;x;.;.;x;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd34mobilizedHotspotsRep1.broadPeak;.;.;.;.;.;.;.;CD34+_Mobilized.;x;.;.;.;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd34mobilizedPkRep1.narrowPeak;.;.;.;.;.;.;.;CD34+_Mobilized.;x;.;.;.;.;.;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd4naivewb11970640HotspotsRep1.broadPeak;.;.;.;.;.;.;.;CD4+_Naive_Wb11970640.;x;.;x;.;.;.;.;.;x;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd4naivewb11970640PkRep1.narrowPeak;.;.;.;.;.;.;.;CD4+_Naive_Wb11970640.;x;.;x;.;.;.;.;.;x;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd4naivewb78495824HotspotsRep1.broadPeak;.;.;.;.;.;.;.;CD4+_Naive_Wb78495824.;x;.;x;.;.;.;.;.;x;.;.;.;.;.;x;x
+wgEncodeUwDnaseCd4naivewb78495824PkRep1.narrowPeak;.;.;.;.;.;.;.;CD4+_Naive_Wb78495824.;x;.;x;.;.;.;.;.;x;.;.;.;.;.;x;x
+wgEncodeUwDnaseCmkHotspotsRep1.broadPeak;.;.;.;.;.;.;.;CMK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseCmkPkRep1.narrowPeak;.;.;.;.;.;.;.;CMK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04503HotspotsRep1.broadPeak;.;.;.;.;.;.;.;GM04503.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04503HotspotsRep2.broadPeak;.;.;.;.;.;.;.;GM04503.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04503PkRep1.narrowPeak;.;.;.;.;.;.;.;GM04503.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04503PkRep2.narrowPeak;.;.;.;.;.;.;.;GM04503.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04504HotspotsRep1.broadPeak;.;.;.;.;.;.;.;GM04504.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04504HotspotsRep2.broadPeak;.;.;.;.;.;.;.;GM04504.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04504PkRep1.narrowPeak;.;.;.;.;.;.;.;GM04504.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm04504PkRep2.narrowPeak;.;.;.;.;.;.;.;GM04504.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm06990HotspotsRep1.broadPeak;.;.;.;.;.;.;.;GM06990.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm06990HotspotsRep2.broadPeak;.;.;.;.;.;.;.;GM06990.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm06990PkRep1.narrowPeak;.;.;.;.;.;.;.;GM06990.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm06990PkRep2.narrowPeak;.;.;.;.;.;.;.;GM06990.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12864HotspotsRep1.broadPeak;.;.;.;.;.;.;.;GM12864.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12864PkRep1.narrowPeak;.;.;.;.;.;.;.;GM12864.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12865HotspotsRep1.broadPeak;.;.;.;.;.;.;.;GM12865.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12865HotspotsRep2.broadPeak;.;.;.;.;.;.;.;GM12865.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12865PkRep1.narrowPeak;.;.;.;.;.;.;.;GM12865.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12865PkRep2.narrowPeak;.;.;.;.;.;.;.;GM12865.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12878HotspotsRep1.broadPeak;.;.;.;.;.;.;.;GM12878.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12878HotspotsRep2.broadPeak;.;.;.;.;.;.;.;GM12878.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12878PkRep1.narrowPeak;.;.;.;.;.;.;.;GM12878.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseGm12878PkRep2.narrowPeak;.;.;.;.;.;.;.;GM12878.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH1hescHotspotsRep1.broadPeak;.;.;.;.;.;.;.;H1-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH1hescPkRep1.narrowPeak;.;.;.;.;.;.;.;H1-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa14dHotspotsRep1.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa14dHotspotsRep2.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa14dPkRep1.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa14dPkRep2.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa2dHotspotsRep1.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa2dPkRep1.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa5dHotspotsRep1.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa5dHotspotsRep2.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa5dPkRep1.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa5dPkRep2.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa9dHotspotsRep1.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esDiffa9dPkRep1.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esHotspotsRep1.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esHotspotsRep2.broadPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esPkRep1V2.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseH7esPkRep2.narrowPeak;.;.;.;.;.;.;.;H7-hESC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHacHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HAc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHacHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HAc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHacPkRep1.narrowPeak;.;.;.;.;.;.;.;HAc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHacPkRep2.narrowPeak;.;.;.;.;.;.;.;HAc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaeHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HAEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaeHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HAEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaePkRep1.narrowPeak;.;.;.;.;.;.;.;HAEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaePkRep2.narrowPeak;.;.;.;.;.;.;.;HAEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHahHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HA-h.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHahHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HA-h.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHahPkRep1.narrowPeak;.;.;.;.;.;.;.;HA-h.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHahPkRep2.narrowPeak;.;.;.;.;.;.;.;HA-h.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaspHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HA-sp.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaspHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HA-sp.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaspPkRep1.narrowPeak;.;.;.;.;.;.;.;HA-sp.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHaspPkRep2.narrowPeak;.;.;.;.;.;.;.;HA-sp.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbmecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HBMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbmecHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HBMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbmecPkRep1.narrowPeak;.;.;.;.;.;.;.;HBMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbmecPkRep2.narrowPeak;.;.;.;.;.;.;.;HBMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbvpHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HBVP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbvpPkRep1.narrowPeak;.;.;.;.;.;.;.;HBVP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbvsmcHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HBVSMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbvsmcHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HBVSMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbvsmcPkRep1.narrowPeak;.;.;.;.;.;.;.;HBVSMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHbvsmcPkRep2.narrowPeak;.;.;.;.;.;.;.;HBVSMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HCF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HCF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfPkRep1.narrowPeak;.;.;.;.;.;.;.;HCF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfPkRep2.narrowPeak;.;.;.;.;.;.;.;HCF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfaaHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HCFaa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfaaHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HCFaa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfaaPkRep1.narrowPeak;.;.;.;.;.;.;.;HCFaa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcfaaPkRep2.narrowPeak;.;.;.;.;.;.;.;HCFaa.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcmHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HCM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcmHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HCM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcmPkRep1.narrowPeak;.;.;.;.;.;.;.;HCM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcmPkRep2.narrowPeak;.;.;.;.;.;.;.;HCM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHconfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HConF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHconfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HConF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHconfPkRep1.narrowPeak;.;.;.;.;.;.;.;HConF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHconfPkRep2.narrowPeak;.;.;.;.;.;.;.;HConF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcpeHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HCPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcpeHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HCPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcpePkRep1.narrowPeak;.;.;.;.;.;.;.;HCPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHcpePkRep2.narrowPeak;.;.;.;.;.;.;.;HCPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHct116HotspotsRep1.broadPeak;.;.;.;.;.;.;.;HCT-116.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHct116HotspotsRep2.broadPeak;.;.;.;.;.;.;.;HCT-116.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHct116PkRep1.narrowPeak;.;.;.;.;.;.;.;HCT-116.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHct116PkRep2.narrowPeak;.;.;.;.;.;.;.;HCT-116.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHeeHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HEEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHeeHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HEEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHeePkRep1.narrowPeak;.;.;.;.;.;.;.;HEEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHeePkRep2.narrowPeak;.;.;.;.;.;.;.;HEEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHelas3HotspotsRep1.broadPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHelas3HotspotsRep2.broadPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHelas3PkRep1.narrowPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHelas3PkRep2.narrowPeak;.;.;.;.;.;.;.;HeLa-S3.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHepg2HotspotsRep1.broadPeak;.;.;.;.;.;.;.;HepG2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHepg2HotspotsRep2.broadPeak;.;.;.;.;.;.;.;HepG2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHepg2PkRep1.narrowPeak;.;.;.;.;.;.;.;HepG2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHepg2PkRep2.narrowPeak;.;.;.;.;.;.;.;HepG2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HFF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HFF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffPkRep1.narrowPeak;.;.;.;.;.;.;.;HFF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffPkRep2.narrowPeak;.;.;.;.;.;.;.;HFF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffmycHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HFF-Myc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffmycHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HFF-Myc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffmycPkRep1.narrowPeak;.;.;.;.;.;.;.;HFF-Myc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHffmycPkRep2.narrowPeak;.;.;.;.;.;.;.;HFF-Myc.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHgfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HGF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHgfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HGF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHgfPkRep1.narrowPeak;.;.;.;.;.;.;.;HGF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHgfPkRep2.narrowPeak;.;.;.;.;.;.;.;HGF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHipeHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HIPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHipeHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HIPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHipePkRep1.narrowPeak;.;.;.;.;.;.;.;HIPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHipePkRep2.narrowPeak;.;.;.;.;.;.;.;HIPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHl60HotspotsRep1.broadPeak;.;.;.;.;.;.;.;HL-60.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHl60HotspotsRep2.broadPeak;.;.;.;.;.;.;.;HL-60.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHl60PkRep1.narrowPeak;.;.;.;.;.;.;.;HL-60.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHl60PkRep2.narrowPeak;.;.;.;.;.;.;.;HL-60.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmecHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmecPkRep1.narrowPeak;.;.;.;.;.;.;.;HMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmecPkRep2.narrowPeak;.;.;.;.;.;.;.;HMEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmfPkRep1.narrowPeak;.;.;.;.;.;.;.;HMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmfPkRep2.narrowPeak;.;.;.;.;.;.;.;HMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdadHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-dAd.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdadHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-dAd.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdadPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-dAd.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdadPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-dAd.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdbladHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-dBl-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdbladHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-dBl-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdbladPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-dBl-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdbladPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-dBl-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdblneoHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-dBl-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdblneoHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-dBl-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdblneoPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-dBl-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdblneoPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-dBl-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyadHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-dLy-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyadHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-dLy-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyadPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-dLy-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyadPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-dLy-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyneoHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-dLy-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyneoHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-dLy-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyneoPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-dLy-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdlyneoPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-dLy-Neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdneoHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-dNeo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdneoHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-dNeo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdneoPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-dNeo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecdneoPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-dNeo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmveclblHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-LBl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmveclblHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-LBl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmveclblPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-LBl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmveclblPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-LBl.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecllyHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HMVEC-LLy.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecllyHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HMVEC-LLy.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecllyPkRep1.narrowPeak;.;.;.;.;.;.;.;HMVEC-LLy.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHmvecllyPkRep2.narrowPeak;.;.;.;.;.;.;.;HMVEC-LLy.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHnpceHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HNPCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHnpceHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HNPCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHnpcePkRep1.narrowPeak;.;.;.;.;.;.;.;HNPCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHnpcePkRep2V2.narrowPeak;.;.;.;.;.;.;.;HNPCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpaecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HPAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpaecPkRep1.narrowPeak;.;.;.;.;.;.;.;HPAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpafHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HPAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpafHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HPAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpafPkRep1.narrowPeak;.;.;.;.;.;.;.;HPAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpafPkRep2.narrowPeak;.;.;.;.;.;.;.;HPAF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpdlfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HPdLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpdlfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HPdLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpdlfPkRep1.narrowPeak;.;.;.;.;.;.;.;HPdLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpdlfPkRep2.narrowPeak;.;.;.;.;.;.;.;HPdLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HPF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HPF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpfPkRep1.narrowPeak;.;.;.;.;.;.;.;HPF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHpfPkRep2.narrowPeak;.;.;.;.;.;.;.;HPF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrceHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HRCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrceHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HRCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrcePkRep1.narrowPeak;.;.;.;.;.;.;.;HRCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrcePkRep2.narrowPeak;.;.;.;.;.;.;.;HRCEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHreHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HRE.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHreHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HRE.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrePkRep1V2.narrowPeak;.;.;.;.;.;.;.;HRE.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrePkRep2V2.narrowPeak;.;.;.;.;.;.;.;HRE.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrgecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HRGEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrgecHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HRGEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrgecPkRep1.narrowPeak;.;.;.;.;.;.;.;HRGEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrgecPkRep2.narrowPeak;.;.;.;.;.;.;.;HRGEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrpeHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HRPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrpeHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HRPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrpePkRep1V2.narrowPeak;.;.;.;.;.;.;.;HRPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHrpePkRep2V2.narrowPeak;.;.;.;.;.;.;.;HRPEpiC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHs27aHotspotsRep1.broadPeak;.;.;.;.;.;.;.;bone_marrow_HS27a.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHs27aPkRep1.narrowPeak;.;.;.;.;.;.;.;bone_marrow_HS27a.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHs5HotspotsRep1.broadPeak;.;.;.;.;.;.;.;bone_marrow_HS5.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHs5PkRep1.narrowPeak;.;.;.;.;.;.;.;bone_marrow_HS5.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HSMM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HSMM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmPkRep1.narrowPeak;.;.;.;.;.;.;.;HSMM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmPkRep2.narrowPeak;.;.;.;.;.;.;.;HSMM.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmtHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HSMMtube.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmtHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HSMMtube.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmtPkRep1.narrowPeak;.;.;.;.;.;.;.;HSMMtube.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHsmmtPkRep2.narrowPeak;.;.;.;.;.;.;.;HSMMtube.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHuvecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HUVEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHuvecHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HUVEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHuvecPkRep1V2.narrowPeak;.;.;.;.;.;.;.;HUVEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHuvecPkRep2.narrowPeak;.;.;.;.;.;.;.;HUVEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHvmfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;HVMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHvmfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;HVMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHvmfPkRep1.narrowPeak;.;.;.;.;.;.;.;HVMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseHvmfPkRep2.narrowPeak;.;.;.;.;.;.;.;HVMF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseJurkatHotspotsRep1.broadPeak;.;.;.;.;.;.;.;Jurkat.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseJurkatHotspotsRep2.broadPeak;.;.;.;.;.;.;.;Jurkat.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseJurkatPkRep1.narrowPeak;.;.;.;.;.;.;.;Jurkat.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseJurkatPkRep2.narrowPeak;.;.;.;.;.;.;.;Jurkat.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf2c10c5HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf2c10c5HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf2c10c5PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf2c10c5PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4c50c4HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4c50c4HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4c50c4PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4c50c4PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4g7d3HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4g7d3HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4g7d3PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znf4g7d3PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfa41c6HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfa41c6HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfa41c6PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfa41c6PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfb34a8HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfb34a8HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfb34a8PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfb34a8PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfe103c6HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfe103c6HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfe103c6PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfe103c6PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znff41b2HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znff41b2HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znff41b2PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znff41b2PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfg54a11HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfg54a11HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfg54a11PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfg54a11PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfp5HotspotsRep1.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfp5HotspotsRep2.broadPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfp5PkRep1.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseK562Znfp5PkRep2.narrowPeak;.;.;.;.;.;.;.;K562.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2Diff4dHotspotsRep1.broadPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2Diff4dHotspotsRep2.broadPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2Diff4dPkRep1.narrowPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2Diff4dPkRep2.narrowPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2HotspotsRep1.broadPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2HotspotsRep2.broadPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2PkRep1.narrowPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLhcnm2PkRep2.narrowPeak;.;.;.;.;.;.;.;LHCN-M2.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLncapHotspotsRep1.broadPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLncapHotspotsRep2.broadPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLncapPkRep1.narrowPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseLncapPkRep2.narrowPeak;.;.;.;.;.;.;.;LNCaP.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseM059jHotspotsRep1.broadPeak;.;.;.;.;.;.;.;M059J.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseM059jHotspotsRep2.broadPeak;.;.;.;.;.;.;.;M059J.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseM059jPkRep1.narrowPeak;.;.;.;.;.;.;.;M059J.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseM059jPkRep2.narrowPeak;.;.;.;.;.;.;.;M059J.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Est100nm1hHotspotsRep1.broadPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Est100nm1hHotspotsRep2.broadPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Est100nm1hPkRep1.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Est100nm1hPkRep2.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Estctrl0hHotspotsRep1.broadPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Estctrl0hHotspotsRep2.broadPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Estctrl0hPkRep1.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7Estctrl0hPkRep2.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7HotspotsRep1.broadPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7HotspotsRep2.broadPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7PkRep1.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMcf7PkRep2.narrowPeak;.;.;.;.;.;.;.;MCF-7.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMonocd14HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMonocd14PkRep1.narrowPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMonocd14ro1746HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMonocd14ro1746HotspotsRep1V2.broadPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMonocd14ro1746HotspotsRep2.broadPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMonocd14ro1746PkRep1.narrowPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMonocd14ro1746PkRep1V2.narrowPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMonocd14ro1746PkRep2.narrowPeak;.;.;.;.;.;.;.;Monocytes-CD14+_RO01746.;x;.;.;.;.;x;.;.;.;.;.;.;.;.;x;x
+wgEncodeUwDnaseMscHotspotsRep1.broadPeak;.;.;.;.;.;.;.;bone_marrow_MSC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMscHotspotsRep2.broadPeak;.;.;.;.;.;.;.;bone_marrow_MSC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMscPkRep1.narrowPeak;.;.;.;.;.;.;.;bone_marrow_MSC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseMscPkRep2.narrowPeak;.;.;.;.;.;.;.;bone_marrow_MSC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNb4HotspotsRep1.broadPeak;.;.;.;.;.;.;.;NB4.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNb4HotspotsRep2.broadPeak;.;.;.;.;.;.;.;NB4.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNb4PkRep1.narrowPeak;.;.;.;.;.;.;.;NB4.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNb4PkRep2.narrowPeak;.;.;.;.;.;.;.;NB4.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhaHotspotsRep1.broadPeak;.;.;.;.;.;.;.;NH-A.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhaHotspotsRep2.broadPeak;.;.;.;.;.;.;.;NH-A.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhaPkRep1.narrowPeak;.;.;.;.;.;.;.;NH-A.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhaPkRep2.narrowPeak;.;.;.;.;.;.;.;NH-A.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhberaHotspotsRep1.broadPeak;.;.;.;.;.;.;.;NHBE_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhberaHotspotsRep2.broadPeak;.;.;.;.;.;.;.;NHBE_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhberaPkRep1.narrowPeak;.;.;.;.;.;.;.;NHBE_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhberaPkRep2.narrowPeak;.;.;.;.;.;.;.;NHBE_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfadHotspotsRep1.broadPeak;.;.;.;.;.;.;.;NHDF-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfadHotspotsRep2.broadPeak;.;.;.;.;.;.;.;NHDF-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfadPkRep1.narrowPeak;.;.;.;.;.;.;.;NHDF-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfadPkRep2.narrowPeak;.;.;.;.;.;.;.;NHDF-Ad.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfneoHotspotsRep1.broadPeak;.;.;.;.;.;.;.;NHDF-neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfneoHotspotsRep2.broadPeak;.;.;.;.;.;.;.;NHDF-neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfneoPkRep1.narrowPeak;.;.;.;.;.;.;.;NHDF-neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhdfneoPkRep2.narrowPeak;.;.;.;.;.;.;.;NHDF-neo.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhekHotspotsRep1.broadPeak;.;.;.;.;.;.;.;NHEK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhekHotspotsRep2.broadPeak;.;.;.;.;.;.;.;NHEK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhekPkRep1.narrowPeak;.;.;.;.;.;.;.;NHEK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhekPkRep2.narrowPeak;.;.;.;.;.;.;.;NHEK.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhlfHotspotsRep1.broadPeak;.;.;.;.;.;.;.;NHLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhlfHotspotsRep2.broadPeak;.;.;.;.;.;.;.;NHLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhlfPkRep1.narrowPeak;.;.;.;.;.;.;.;NHLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNhlfPkRep2.narrowPeak;.;.;.;.;.;.;.;NHLF.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNt2d1HotspotsRep1.broadPeak;.;.;.;.;.;.;.;NT2-D1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNt2d1HotspotsRep2.broadPeak;.;.;.;.;.;.;.;NT2-D1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNt2d1PkRep1.narrowPeak;.;.;.;.;.;.;.;NT2-D1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseNt2d1PkRep2.narrowPeak;.;.;.;.;.;.;.;NT2-D1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePanc1HotspotsRep1.broadPeak;.;.;.;.;.;.;.;PANC-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePanc1HotspotsRep2.broadPeak;.;.;.;.;.;.;.;PANC-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePanc1PkRep1.narrowPeak;.;.;.;.;.;.;.;PANC-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePanc1PkRep2.narrowPeak;.;.;.;.;.;.;.;PANC-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePrecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;PrEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePrecHotspotsRep2.broadPeak;.;.;.;.;.;.;.;PrEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePrecPkRep1.narrowPeak;.;.;.;.;.;.;.;PrEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnasePrecPkRep2.narrowPeak;.;.;.;.;.;.;.;PrEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRpmi7951HotspotsRep1.broadPeak;.;.;.;.;.;.;.;RPMI-7951.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRpmi7951HotspotsRep2.broadPeak;.;.;.;.;.;.;.;RPMI-7951.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRpmi7951PkRep1.narrowPeak;.;.;.;.;.;.;.;RPMI-7951.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRpmi7951PkRep2.narrowPeak;.;.;.;.;.;.;.;RPMI-7951.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRptecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;RPTEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRptecHotspotsRep2.broadPeak;.;.;.;.;.;.;.;RPTEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRptecPkRep1.narrowPeak;.;.;.;.;.;.;.;RPTEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseRptecPkRep2.narrowPeak;.;.;.;.;.;.;.;RPTEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSaecHotspotsRep1.broadPeak;.;.;.;.;.;.;.;SAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSaecHotspotsRep2.broadPeak;.;.;.;.;.;.;.;SAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSaecPkRep1.narrowPeak;.;.;.;.;.;.;.;SAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSaecPkRep2.narrowPeak;.;.;.;.;.;.;.;SAEC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSkmcHotspotsRep1.broadPeak;.;.;.;.;.;.;.;SKMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSkmcHotspotsRep2.broadPeak;.;.;.;.;.;.;.;SKMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSkmcPkRep1.narrowPeak;.;.;.;.;.;.;.;SKMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSkmcPkRep2.narrowPeak;.;.;.;.;.;.;.;SKMC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknmcHotspotsRep1.broadPeak;.;.;.;.;.;.;.;SK-N-MC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknmcHotspotsRep2.broadPeak;.;.;.;.;.;.;.;SK-N-MC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknmcPkRep1.narrowPeak;.;.;.;.;.;.;.;SK-N-MC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknmcPkRep2.narrowPeak;.;.;.;.;.;.;.;SK-N-MC.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknshraHotspotsRep1.broadPeak;.;.;.;.;.;.;.;SK-N-SH_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknshraHotspotsRep2.broadPeak;.;.;.;.;.;.;.;SK-N-SH_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknshraPkRep1.narrowPeak;.;.;.;.;.;.;.;SK-N-SH_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseSknshraPkRep2.narrowPeak;.;.;.;.;.;.;.;SK-N-SH_RA.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseT47dHotspotsRep1.broadPeak;.;.;.;.;.;.;.;T-47D.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseT47dHotspotsRep2.broadPeak;.;.;.;.;.;.;.;T-47D.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseT47dPkRep1.narrowPeak;.;.;.;.;.;.;.;T-47D.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseT47dPkRep2.narrowPeak;.;.;.;.;.;.;.;T-47D.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseTh17HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Th17.;x;.;x;.;.;.;.;.;x;.;x;.;.;.;x;x
+wgEncodeUwDnaseTh17PkRep1.narrowPeak;.;.;.;.;.;.;.;Th17.;x;.;x;.;.;.;.;.;x;.;x;.;.;.;x;x
+wgEncodeUwDnaseTh1HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Th1.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1HotspotsRep2.broadPeak;.;.;.;.;.;.;.;Th1.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1PkRep1.narrowPeak;.;.;.;.;.;.;.;Th1.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1PkRep2.narrowPeak;.;.;.;.;.;.;.;Th1.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1wb33676984HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Th1_Wb33676984.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1wb33676984PkRep1.narrowPeak;.;.;.;.;.;.;.;Th1_Wb33676984.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1wb54553204HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Th1_Wb54553204.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1wb54553204HotspotsRep2.broadPeak;.;.;.;.;.;.;.;Th1_Wb54553204.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1wb54553204PkRep1.narrowPeak;.;.;.;.;.;.;.;Th1_Wb54553204.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh1wb54553204PkRep2.narrowPeak;.;.;.;.;.;.;.;Th1_Wb54553204.;x;.;x;.;.;.;.;.;x;.;.;.;x;.;x;x
+wgEncodeUwDnaseTh2HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Th2.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTh2HotspotsRep2.broadPeak;.;.;.;.;.;.;.;Th2.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTh2PkRep1.narrowPeak;.;.;.;.;.;.;.;Th2.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTh2PkRep2.narrowPeak;.;.;.;.;.;.;.;Th2.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTh2wb33676984HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Th2_Wb33676984.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTh2wb33676984PkRep1.narrowPeak;.;.;.;.;.;.;.;Th2_Wb33676984.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTh2wb54553204HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Th2_Wb54553204.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTh2wb54553204PkRep1.narrowPeak;.;.;.;.;.;.;.;Th2_Wb54553204.;x;.;x;.;.;.;.;.;x;.;.;.;.;x;x;x
+wgEncodeUwDnaseTregwb78495824HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Treg_Wb78495824.;x;.;x;.;.;.;.;.;x;.;.;x;.;.;x;x
+wgEncodeUwDnaseTregwb78495824PkRep1.narrowPeak;.;.;.;.;.;.;.;Treg_Wb78495824.;x;.;x;.;.;.;.;.;x;.;.;x;.;.;x;x
+wgEncodeUwDnaseTregwb83319432HotspotsRep1.broadPeak;.;.;.;.;.;.;.;Treg_Wb83319432.;x;.;x;.;.;.;.;.;x;.;.;x;.;.;x;x
+wgEncodeUwDnaseTregwb83319432PkRep1.narrowPeak;.;.;.;.;.;.;.;Treg_Wb83319432.;x;.;x;.;.;.;.;.;x;.;.;x;.;.;x;x
+wgEncodeUwDnaseWerirb1HotspotsRep1.broadPeak;.;.;.;.;.;.;.;WERI-Rb-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWerirb1HotspotsRep2.broadPeak;.;.;.;.;.;.;.;WERI-Rb-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWerirb1PkRep1.narrowPeak;.;.;.;.;.;.;.;WERI-Rb-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWerirb1PkRep2.narrowPeak;.;.;.;.;.;.;.;WERI-Rb-1.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38HotspotsRep1.broadPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38HotspotsRep2.broadPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38OhtamHotspotsRep1.broadPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38OhtamHotspotsRep2.broadPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38OhtamPkRep1.narrowPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38OhtamPkRep2.narrowPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38PkRep1.narrowPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
+wgEncodeUwDnaseWi38PkRep2.narrowPeak;.;.;.;.;.;.;.;WI-38.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.;.
