@@ -1,6 +1,6 @@
 
 ##########################################################################################################################################################################################
-## Ad hoc R-Script for creating figures 4, S2 and S3 in the manuscript titled: 'Beware of the Jaccard: the choice of metric is important and non-trivial in genomic co-localisation analysis'##########
+## Ad hoc R-Script for creating figures 4, C4 and C5 in the manuscript titled: 'Beware of the Jaccard: the choice of metric is important and non-trivial in genomic co-localisation analysis'##########
 ##########################################################################################################################################################################################
 
 #Steps for obtaining the mentioned figure:
@@ -27,11 +27,11 @@ pdf('figure4.pdf', width = 6, height = 6)
 plot(dataRanksTopOverlap$jaccard, dataRanksTopOverlap$forbes, xlab='Jaccard', ylab='Forbes', xlim=c(0, 37000), ylim=c(0,37000))
 dev.off()
 
-pdf('figureS2.pdf', width = 6, height = 6)
+pdf('figureC4.pdf', width = 6, height = 6)
 plot(dataRanksTopOverlap$jaccard, dataRanksTopOverlap$tetra, xlab='Jaccard', ylab='Tetrachoric Correlation', xlim=c(0, 37000), ylim=c(0,37000))
 dev.off()
 
-pdf('figureS3.pdf', width = 6, height = 6)
+pdf('figureC5.pdf', width = 6, height = 6)
 plot(dataRanksTopOverlap$tetra, dataRanksTopOverlap$forbes,  xlab='Forbes', ylab='Tetrachoric Correlation', xlim=c(0, 37000), ylim=c(0,37000))
 dev.off()
 
